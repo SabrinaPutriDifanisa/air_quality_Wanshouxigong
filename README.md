@@ -13,19 +13,6 @@ Dashboard ini digunakan untuk menampilkan hasil analisis data kualitas udara di 
    streamlit run dashboard.py
 4. Dashboard akan terbuka secara otomatis di browser.
 
-
-# Struktur Direktori
-submission
-├───dashboard
-| ├───main_data.csv
-| └───dashboard.py
-├───data
-| ├───data_1.csv
-├───notebook.ipynb
-├───README.md
-└───requirements.txt
-└───url.txt
-
 #DATASET
 ## Dataset
 Dataset ini berisi informasi kualitas udara dengan kolom-kolom sebagai berikut:
