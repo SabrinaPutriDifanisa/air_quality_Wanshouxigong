@@ -1,7 +1,7 @@
-# air_quality_Wanshouxigong
-# Air Quality Analysis Dashboard
+# Air Quality Dashboard for Wanshouxigong District
+# Monitoring Changes in Pollutants Over Time
 
-Dashboard ini digunakan untuk menampilkan hasil analisis data kualitas udara secara interaktif.
+Dashboard ini digunakan untuk menampilkan hasil analisis data kualitas udara di Distrik Wanshouxigong secara interaktif.
 
 ## Cara Menjalankan
 
