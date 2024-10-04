@@ -10,7 +10,7 @@ st.title("🌍 Air Quality Dashboard for Wanshouxigong District: Monitoring Chan
 st.sidebar.header('🔍 Air Quality Exploration')
 
 # Load dataset
-df = pd.read_csv("dashboard/main_data.csv")
+df = pd.read_csv("submissions/dashboard/main_data.csv")
 
 # Buat kolom Date
 df['Date'] = pd.to_datetime(df[['year', 'month', 'day', 'hour']])
